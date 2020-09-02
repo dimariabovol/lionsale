@@ -1,6 +1,6 @@
 # Full cycle agency "LionSale"
 
-I created [LionSale](https://dimariabovol.github.io/testing.github.io/) site as a testing task for some company.
+I created [LionSale](https://dimariabovol.github.io/lionsale/) site as a testing task for some company.
 
 This project I started from MobileFirst approach. 
 
